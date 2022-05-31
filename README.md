@@ -1,5 +1,6 @@
-#***TogethDAO***
+# *TogethDAO*
 [Demo Video](https://youtu.be/TlvsHnNld5k)
+
 [Demo Site](http://203.195.224.157:3000/)
 
 # **opensea-sdk**
